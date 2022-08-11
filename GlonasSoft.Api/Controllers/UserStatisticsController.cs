@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using GlonasSoft.BL;
-using GlonasSoft.BL.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 using GlonasSoft.Web.Controllers.Common;
 using GlonasSoft.Application.Models;
 using GlonasSoft.Application.Service;
